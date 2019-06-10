@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539204190941",
+    "firebase_url": "https://nadoblog-32585.firebaseio.com",
+    "project_id": "nadoblog-32585",
+    "storage_bucket": "nadoblog-32585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539204190941:android:12f4582832072019",
+        "android_client_info": {
+          "package_name": "com.example.aws.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539204190941-8tsi6g9rv8hkt911hcrk24qjv9586ho0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aws.blogapp",
+            "certificate_hash": "a342039d4b4947d526e4a13697cdb381ee4e7de1"
+          }
+        },
+        {
+          "client_id": "539204190941-0tdta0tklqmseejvmeqgq69j69d753mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdjUfk-g-n4IE2p6v0qXYRl1zNVWbuahY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539204190941-0tdta0tklqmseejvmeqgq69j69d753mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
